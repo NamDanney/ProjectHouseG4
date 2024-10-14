@@ -89,7 +89,7 @@ namespace RentHouse.DashBoardBody
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Form5 form5 = new Form5();
+            frmHopDong form5 = new frmHopDong();
             ShowFormInPanel(form5);
         }
 
