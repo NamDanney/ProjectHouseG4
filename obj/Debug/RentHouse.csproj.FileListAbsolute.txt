@@ -26,8 +26,6 @@ D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.csproj.AssemblyReference.cache
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.Form1.resources
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.Form2.resources
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.Form_DashBoard.resources
-D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.ManagerAllListForm.Form3.resources
-D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.ManagerAllListForm.Form4.resources
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.ManagerAllListForm.Form5.resources
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.ManagerAllListForm.Form6.resources
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.Form_Login.resources
@@ -40,4 +38,5 @@ D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.csproj.Up2Date
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.exe
 D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.pdb
 D:\TranVuHuy\ProjectHouseG4\bin\Debug\Guna.UI2.dll
-D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.ManagerAllListForm.HOADON.frmDV.resources
+D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.ManagerAllListForm.HOADON.form1.resources
+D:\TranVuHuy\ProjectHouseG4\obj\Debug\RentHouse.DashBoardBody.ManagerAllListForm.Form3.resources

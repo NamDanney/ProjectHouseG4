@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RentHouse.DashBoardBody.ManagerAllListForm.HOADON
 {
-    public partial class frmDV : Form
+    public partial class Form1 : Form
     {
-        public frmDV()
+        public Form1()
         {
             InitializeComponent();
         }

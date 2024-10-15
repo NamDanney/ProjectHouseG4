@@ -20,7 +20,7 @@ namespace RentHouse.DashBoardBody.ManagerAllListForm
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            frmDV frmDV = new frmDV();
+            Form3 frmDV = new Form3();
             frmDV.ShowDialog();
         }
 
